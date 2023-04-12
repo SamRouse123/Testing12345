@@ -1,2 +1,4 @@
 welcome to new project
-git hub confict 
+<<<<<<< anotherBranch
+Git hub experimentation
+
