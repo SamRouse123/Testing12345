@@ -1,2 +1,4 @@
 welcome to new project
+<<<<<<< anotherBranch
 Git hub experimentation
+
